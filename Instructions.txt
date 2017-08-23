@@ -1,0 +1,16 @@
+To run the app:
+
+1. The phone and the machine on which the server code is running should be connected to the same network. So make a WiFi hotspot from your cell and connect your laptop to it.
+2. Change the server ip address in the 'AcademyAssistServer' file and run it as you would run a normal java file.
+3. Install the apk file
+
+You're good to go :)
+
+To update the app:
+
+1. Install eclipse
+2. Import Academy Assist and appcompat_v7(support library files) projects in the workspace.
+3. Add the ParseJar files to the Academy Assist project.
+4. Make changes and export as apk.
+
+Kindly get in touch with us before making any changes to the project. Thank you.
